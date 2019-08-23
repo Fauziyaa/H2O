@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">H2O</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="remeber_me">Remeber me</string>
+    <string name="forgot">Forgot?</string>
+
+
+</resources>
